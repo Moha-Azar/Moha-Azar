@@ -12,12 +12,26 @@ With strong command over SQL, Tableau, Power BI, Excel, and Big Data tools, I th
 
 ### 🛠️ Tech Stack & Tools
 
-- **Languages**: Python • Scala • SQL   
-- **Big Data Ecosystem**: Hadoop • Spark • Hive • Sqoop  
-- **Cloud Platforms**: AWS • Azure • GCP  
-- **Databases**: MySQL • SQL Server • PostgresSQL • Oracle 
-- **BI & Analytics**: Power BI • Tableau • Excel • Alteryx  
-- **OS**: Linux • Windows  
+- **Languages**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+- **Big Data Ecosystem**: ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apache-hadoop&logoColor=black)
+![Spark](https://img.shields.io/badge/Spark-FDEE21?style=flat-square&logo=apache-spark&logoColor=black)
+![Hive](https://img.shields.io/badge/Hive-FCC200?style=flat-square&logo=apache-hive&logoColor=black)
+![Sqoop](https://img.shields.io/badge/Sqoop-003366?style=flat-square&logo=data&logoColor=white)
+- **Cloud Platforms**: ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+- **Databases**: ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+- **BI & Analytics**: ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Alteryx](https://img.shields.io/badge/Alteryx-0071C5?style=flat-square&logo=alteryx&logoColor=white)
+- **OS**: ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
 ---
 
@@ -61,4 +75,3 @@ I'm always upskilling and currently diving deeper into **Generative AI** and **C
 
 
 
-![Spark Mastery – Oct 2025](https://img.shields.io/badge/Spark-Mastery-green?style=flat-square&logo=apache-spark)
