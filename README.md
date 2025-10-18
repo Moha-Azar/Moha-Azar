@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammed-azarudeen-h/)
 
-## 🚀 Data Engineer | BI Developer | Data Enthusiast
+## 🚀 Data Engineer | Big Data Developer | BI Developer
 
 I’m a certified Data Engineer currently with Adastra, bringing 6+ years of hands-on experience across data engineering, business intelligence, and analytics. My journey spans domains—starting at Amazon as a Quality Data Analyst, followed by a specialized role in Experience.com as a Tableau Developer, and now contributing to enterprise data transformation projects at Adastra.
 
