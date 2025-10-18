@@ -12,10 +12,10 @@ With strong command over SQL, Tableau, Power BI, Excel, and Big Data tools, I th
 
 ### 🛠️ Tech Stack & Tools
 
-- **Languages**: Python • Scala • SQL • Shell Script  
+- **Languages**: Python • Scala • SQL   
 - **Big Data Ecosystem**: Hadoop • Spark • Hive • Sqoop  
 - **Cloud Platforms**: AWS • Azure • GCP  
-- **Databases**: MySQL • SQL Server  
+- **Databases**: MySQL • SQL Server • PostgresSQL • Oracle 
 - **BI & Analytics**: Power BI • Tableau • Excel • Alteryx  
 - **OS**: Linux • Windows  
 
@@ -61,3 +61,4 @@ I'm always upskilling and currently diving deeper into **Generative AI** and **C
 
 
 
+![Spark Mastery – Oct 2025](https://img.shields.io/badge/Spark-Mastery-green?style=flat-square&logo=apache-spark)
